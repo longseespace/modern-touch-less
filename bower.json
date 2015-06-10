@@ -1,0 +1,19 @@
+{
+  "name": "modern-touch-less",
+  "version": "1.0",
+  "authors": [
+    "Long Nguyen <long@seespace.co>"
+  ],
+  "description": "Bower version of Modern Touch UI kit by PixelKit",
+  "main": "style.less",
+  "license": "MIT",
+  "homepage": "http://pixelkit.com/kits/flat-ui-kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private" : true
+}
